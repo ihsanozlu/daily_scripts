@@ -17,5 +17,5 @@ def json_to_csv(json_file, csv_file):
 
 # Replace 'input.json' with the path to your JSON file
 # Replace 'output.csv' with the path where you want to save the CSV file
-json_to_csv('/Users/ihsan/Downloads/input.json', '/Users/ihsan/Downloads/output.csv')
+json_to_csv('/Users/user/work-space/compare-files/loki_export.json', '/Users/user/work-space/compare-files/loki_export.csv')
 
